@@ -1,0 +1,9 @@
+C:\Users\Glenn\Downloads\BasicThread (1)\BasicThread\BasicThread\bin\Debug\BasicThread.exe.config
+C:\Users\Glenn\Downloads\BasicThread (1)\BasicThread\BasicThread\bin\Debug\BasicThread.exe
+C:\Users\Glenn\Downloads\BasicThread (1)\BasicThread\BasicThread\bin\Debug\BasicThread.pdb
+C:\Users\Glenn\Downloads\BasicThread (1)\BasicThread\BasicThread\obj\Debug\BasicThread.csproj.AssemblyReference.cache
+C:\Users\Glenn\Downloads\BasicThread (1)\BasicThread\BasicThread\obj\Debug\BasicThread.FrmBasicThread.resources
+C:\Users\Glenn\Downloads\BasicThread (1)\BasicThread\BasicThread\obj\Debug\BasicThread.csproj.GenerateResource.cache
+C:\Users\Glenn\Downloads\BasicThread (1)\BasicThread\BasicThread\obj\Debug\BasicThread.csproj.CoreCompileInputs.cache
+C:\Users\Glenn\Downloads\BasicThread (1)\BasicThread\BasicThread\obj\Debug\BasicThread.exe
+C:\Users\Glenn\Downloads\BasicThread (1)\BasicThread\BasicThread\obj\Debug\BasicThread.pdb
